@@ -46,8 +46,8 @@ useEffect(() => {
       <section className='timer'>
           <div>
               <span className='mdi mdi-calendar-clock timer-icon'></span>
-              <h2>iLand Hotels</h2>
-              <p>My latest project will be released soon. Brace yourself!!</p>
+              <h2>CRAAVE</h2>
+              <p>Go-Live in a bit. Brace yourself!!</p>
           </div>
           <div>
             <section>
